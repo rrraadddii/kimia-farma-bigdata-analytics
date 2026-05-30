@@ -1,3 +1,8 @@
+## 📊 Dashboard Overview
+
+![Dashboard Performance Analytics Kimia Farma](dashboard.png)
+
+
 # 🏬 Kimia Farma – Big Data Analytics Project (2020–2023)
 
 This project is the final task of a **Project-Based Internship** as a **Big Data Analyst Intern** at Kimia Farma.  
@@ -54,6 +59,8 @@ As a Big Data Analyst Intern, I was tasked to:
   - `nett_sales` – price after discount.
   - `nett_profit` – net profit.
 - The query is saved in [`sql/kf_analysis_query.sql`](sql/kf_analysis_query.sql).
+
+## SQL Overview
 
 ### 3. Building the Looker Studio Dashboard
 - Connect BigQuery to Looker Studio.
@@ -162,8 +169,6 @@ Evaluate operational costs in low‑profit regions, or increase promotions there
 1. Clone this repository:
    ```bash
    git clone https://github.com/rrraadddii/kimia-farma-bigdata-analytics.git
-2. Open [sql/kf_analysis_query.sql](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1sbigdatanalayst-kimiafarma!2sus-central1!3s3ea603d8-a5e0-40f7-9e8c-7427bb17299f!2e1) and run it in BigQuery Console.
-3. Access the dashboard via the link in [**Kimia Farma Performance Analytics 2020-2023**](https://datastudio.google.com/reporting/ecd5ccc8-a88a-4d53-ad5b-05707fad6cab)
 
 🧰 Technologies Used:
 Google BigQuery – data storage & querying
