@@ -61,6 +61,7 @@ As a Big Data Analyst Intern, I was tasked to:
 - The query is saved in [`sql/kf_analysis_query.sql`](sql/kf_analysis_query.sql).
 
 ## SQL Overview
+![SQL Overview](https://github.com/rrraadddii/kimia-farma-bigdata-analytics/blob/162c5e8159ec4f9ebd97bd9294d68722476b8952/SLQ%20Query.png)
 
 ### 3. Building the Looker Studio Dashboard
 - Connect BigQuery to Looker Studio.
